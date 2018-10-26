@@ -1,0 +1,2 @@
+
+enemyHealth = 20
